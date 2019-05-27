@@ -1,8 +1,8 @@
-#==Password Validator V1.0==
+# ==Password Validator V1.0==
 
 >__Created by @shiroyaksha13__
 
 ```
-- *Used Language:* JavaScript
-- *Used Code Editor:* VS Code
+- __Used Language:__ JavaScript
+- __Used Code Editor:__ VS Code
 ```
